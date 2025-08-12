@@ -1,5 +1,6 @@
 ---
 title: "change-password-domain-computer"
+layout: default
 ---
 
 # How to Change Your Password on a Domain-Joined Computer

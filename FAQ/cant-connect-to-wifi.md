@@ -1,5 +1,6 @@
 ---
 title: "wifi-troubleshooting"
+layout: default
 ---
 
 # I Can't Connect to the Wi-Fi Network — What Should I Do?

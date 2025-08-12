@@ -1,5 +1,6 @@
 ---
 title: "frozen-laptop"
+layout: default
 ---
 
 # Troubleshooting a Frozen Laptop

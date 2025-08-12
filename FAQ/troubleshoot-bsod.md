@@ -1,5 +1,6 @@
 ---
 title: "bsod-troubleshooting"
+layout: default
 ---
 
 # How to Troubleshoot Blue Screen of Death (BSOD)

@@ -1,5 +1,6 @@
 ---
 title: "how-to-clean-your-laptop"
+layout: default
 ---
 # How to Clean Your Laptop
 
