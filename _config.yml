@@ -1,5 +1,6 @@
 title: "Sysadmin Docs"
-description: "Public IT Helpdesk knowledge base"
-theme: minima     
+description: "IT Helpdesk and Sysadmin Knowledge Base"
+theme: minima
 markdown: kramdown
-permalink: pretty             
+plugins:
+  - jekyll-feed

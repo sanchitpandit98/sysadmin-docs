@@ -1,14 +1,13 @@
 ---
 title: "Sysadmin Docs"
+layout: default
 ---
 
-# Sysadmin Docs
+# Welcome to Sysadmin Docs
 
-Welcome to our IT Helpdesk knowledge base.
+Here you'll find helpful articles for IT helpdesk and sysadmin tasks.
 
-## FAQ
-- [Wi-Fi Connection Troubleshooting](FAQ/wifi-troubleshooting)
-- [Blue Screen of Death (BSOD) Troubleshooting](FAQ/bsod-troubleshooting)
-- [Troubleshooting Frozen Laptop](FAQ/frozen-laptop)
-- [Change Password on a Domain-Joined Computer](FAQ/change-password-domain-computer)
-- [How to Clean Your Laptop](FAQ/how-to-clean-your-laptop)
+## 📂 FAQ
+- [How to Clean Your Laptop](FAQ/how-to-clean-your-laptop.md)
+- [How to Troubleshoot Blue Screen of Death (BSOD)](FAQ/bsod-troubleshooting.md)
+- [Wi-Fi Connection Troubleshooting](FAQ/wifi-troubleshooting.md)
