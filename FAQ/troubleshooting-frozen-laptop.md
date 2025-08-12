@@ -1,7 +1,5 @@
 ---
-
 title: "Troubleshooting a Frozen Laptop"
-
 ---
 
 # Troubleshooting a Frozen Laptop

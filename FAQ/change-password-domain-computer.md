@@ -1,7 +1,5 @@
 ---
-
 title: "How to Change Your Password on a Domain-Joined Computer"
-
 ---
 
 # How to Change Your Password on a Domain-Joined Computer

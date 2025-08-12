@@ -1,7 +1,5 @@
 ---
-
 title: "How to Clean Your Laptop"
-
 ---
 # How to Clean Your Laptop
 
