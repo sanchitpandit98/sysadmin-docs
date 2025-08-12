@@ -1,3 +1,9 @@
+---
+
+title: "How to Change Your Password on a Domain-Joined Computer"
+
+---
+
 # How to Change Your Password on a Domain-Joined Computer
 
 ## Ctrl+Alt+Del (Connected and Unlocked)

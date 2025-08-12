@@ -1,3 +1,9 @@
+---
+
+title: "Troubleshooting a Frozen Laptop"
+
+---
+
 # Troubleshooting a Frozen Laptop
 
 ![Frustrated user with a frozen laptop](images/frozen-laptop-user.png)
