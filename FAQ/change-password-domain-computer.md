@@ -1,5 +1,5 @@
 ---
-title: "How to Change Your Password on a Domain-Joined Computer"
+title: "change-password-domain-computer"
 ---
 
 # How to Change Your Password on a Domain-Joined Computer

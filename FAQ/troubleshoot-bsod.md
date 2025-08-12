@@ -1,5 +1,5 @@
 ---
-title: "How to Troubleshoot Blue Screen of Death (BSOD)"
+title: "bsod-troubleshooting"
 ---
 
 # How to Troubleshoot Blue Screen of Death (BSOD)

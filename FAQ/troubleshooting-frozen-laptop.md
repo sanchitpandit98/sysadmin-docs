@@ -1,5 +1,5 @@
 ---
-title: "Troubleshooting a Frozen Laptop"
+title: "frozen-laptop"
 ---
 
 # Troubleshooting a Frozen Laptop

@@ -1,5 +1,5 @@
 ---
-title: "How to Clean Your Laptop"
+title: "how-to-clean-your-laptop"
 ---
 # How to Clean Your Laptop
 

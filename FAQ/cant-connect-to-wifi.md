@@ -1,5 +1,5 @@
 ---
-title: "I Can't Connect to the Wi-Fi Network"
+title: "wifi-troubleshooting"
 ---
 
 # I Can't Connect to the Wi-Fi Network — What Should I Do?
